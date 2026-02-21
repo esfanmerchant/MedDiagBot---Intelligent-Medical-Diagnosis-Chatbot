@@ -200,12 +200,14 @@ MIT License - see [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Your Name**  
-📧 Email: esfanmerchant@gmail.com  
-🐙 GitHub: [@esfanmerchant](https://github.com/esfanmerchant)  
-💼 LinkedIn: [Esfan Merchant](https://www.linkedin.com/in/esfan-merchant-488817305/)
+<strong>Your Name</strong><br><br>
 
-**Live Project Link:** [https://github.com/esfanmerchant/medical-chatbot](https://huggingface.co/spaces/esfanmerchant/MedDiagBot)
+📧 Email: <a href="mailto:esfanmerchant@gmail.com" target="_blank">esfanmerchant@gmail.com</a><br>
+🐙 GitHub: <a href="https://github.com/esfanmerchant/" target="_blank">@esfanmerchant</a><br>
+💼 LinkedIn: <a href="https://www.linkedin.com/in/esfan-merchant-488817305/" target="_blank">Esfan Merchant</a><br><br>
+
+<strong>Project Link:</strong>
+<a href="https://huggingface.co/spaces/esfanmerchant/MedDiagBot" target="_blank">Live Project Link</a>
 
 ---
 
