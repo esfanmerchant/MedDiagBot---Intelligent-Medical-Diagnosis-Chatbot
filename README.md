@@ -165,13 +165,19 @@ CMD ["python", "app.py"]
 ## 🎨 Screenshots
 
 ### Light Mode
-![Chat Interface](https://via.placeholder.com/800x400/ffffff/06b6d4?text=Chat+Interface)
+<p >
+  <img src="assets/light-mode.png" width="600">
+</p>
 
 ### Dark Mode
-![Dark Mode](https://via.placeholder.com/800x400/0f172a/06b6d4?text=Dark+Mode)
+<p >
+  <img src="assets/dark-mode.png" width="600">
+</p>
 
 ### Mobile
-![Mobile View](https://via.placeholder.com/400x600/1e293b/06b6d4?text=Mobile+View)
+<p >
+  <img src="assets/mobile-mode.png" width="275">
+</p>
 
 ---
 
