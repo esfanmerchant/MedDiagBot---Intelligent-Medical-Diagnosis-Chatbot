@@ -201,11 +201,11 @@ MIT License - see [LICENSE](LICENSE) file
 ## 📞 Contact
 
 **Your Name**  
-📧 Email: your.email@example.com  
-🐙 GitHub: [@yourusername](https://github.com/yourusername)  
-💼 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+📧 Email: esfanmerchant@gmail.com  
+🐙 GitHub: [@esfanmerchant](https://github.com/esfanmerchant)  
+💼 LinkedIn: [Esfan Merchant](https://www.linkedin.com/in/esfan-merchant-488817305/)
 
-**Project Link:** [https://github.com/yourusername/medical-chatbot](https://github.com/yourusername/medical-chatbot)
+**Live Project Link:** [https://github.com/esfanmerchant/medical-chatbot](https://huggingface.co/spaces/esfanmerchant/MedDiagBot)
 
 ---
 
